@@ -6,7 +6,7 @@ authors = ["solo <qwastro322@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-django = "4.2.5"
+django = "4.1.6"
 djangorestframework = "^3.14.0"
 django-filter = "^23.2"
 django-debug-toolbar = "^4.2.0"
